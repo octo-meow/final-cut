@@ -2,3 +2,14 @@ time=21:19:02 msg="name: [evelina %!s(int=29)], age: %!d(MISSING)"
 name: evelina, age: 29name: evelina, age: 29name: evelina, age: 29
 name: evelina, age: 29
 name: evelina, age: 29
+show evelina writingshow evelina writingclear screenshow evelina writing
+clear screen
+show evelina writing
+clear screen
+show evelina writing
+clear screen
+show evelina writing
+clear screen
+[90m11:07AM[0m DBG clear screen
+[90m11:07AM[0m DBG show screen [36mname=[0mevelina
+[90m11:07AM[0m DBG clear screen
