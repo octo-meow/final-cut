@@ -206,3 +206,13 @@ clear screen
 [90m8:51PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
 [90m8:51PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
 [90m8:51PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
+[90m10:44PM[0m DBG here [36mbyteline=[0m"╔═════════════╗" [36mrun len=[0m15 [36mstr len=[0m45
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║ *         * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m10:44PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
