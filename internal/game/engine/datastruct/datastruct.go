@@ -6,3 +6,5 @@ type Chunk struct {
 	Char  rune
 	Color color.Color
 }
+
+type Frame [][]Chunk

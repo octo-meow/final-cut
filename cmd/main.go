@@ -6,7 +6,7 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"github.com/ereminiu/final-cut/game"
+	"github.com/ereminiu/final-cut/internal/game"
 	gameprovider "github.com/ereminiu/final-cut/internal/game_provider"
 )
 

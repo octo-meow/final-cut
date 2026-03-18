@@ -13,3 +13,196 @@ clear screen
 [90m11:07AM[0m DBG clear screen
 [90m11:07AM[0m DBG show screen [36mname=[0mevelina
 [90m11:07AM[0m DBG clear screen
+[90m8:11AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:12AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:13AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:14AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:14AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:14AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:14AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:15AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:16AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:16AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:17AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:17AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:19AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:19AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:19AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:19AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:21AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:21AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:21AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:21AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:22AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:22AM[0m DBG current line [36mi=[0m0 [36mj=[0m0
+[90m8:22AM[0m DBG current line [36mi=[0m0 [36mj=[0m3
+[90m8:22AM[0m DBG current line [36mi=[0m0 [36mj=[0m6
+[90m8:22AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:23AM[0m DBG here [36mbyteline=[0m"╔═══╗"
+[90m8:23AM[0m DBG current line [36mchar=[0m"╔" [36mi=[0m0 [36mj=[0m0
+[90m8:23AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m3
+[90m8:23AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m6
+[90m8:23AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:24AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mlen(strline)=[0m15
+[90m8:24AM[0m DBG current line [36mchar=[0m"╔" [36mi=[0m0 [36mj=[0m0
+[90m8:24AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m3
+[90m8:24AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m6
+[90m8:24AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:25AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mlen(strline)=[0m15 [36mrun len=[0m5
+[90m8:25AM[0m DBG current line [36mchar=[0m"╔" [36mi=[0m0 [36mj=[0m0
+[90m8:25AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m3
+[90m8:25AM[0m DBG current line [36mchar=[0m"═" [36mi=[0m0 [36mj=[0m6
+[90m8:25AM[0m [31mFTL[0m [1mcaught panic[0m [36merr=[0m{}
+[90m8:26AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mlen(strline)=[0m15 [36mrun len=[0m5
+[90m8:26AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mlen(strline)=[0m9 [36mrun len=[0m5
+[90m8:26AM[0m DBG here [36mbyteline=[0m"     " [36mlen(strline)=[0m5 [36mrun len=[0m5
+[90m8:26AM[0m DBG here [36mbyteline=[0m"║*  ║" [36mlen(strline)=[0m9 [36mrun len=[0m5
+[90m8:26AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mlen(strline)=[0m15 [36mrun len=[0m5
+[90m8:28AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:28AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:28AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:28AM[0m DBG here [36mbyteline=[0m"║*  ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:28AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:30AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:30AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:30AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:30AM[0m DBG here [36mbyteline=[0m"║*  ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:30AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:44AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:44AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:44AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:44AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:44AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:46AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:46AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:46AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:47AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:47AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:58AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:58AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m9:00AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m9:00AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m9:00AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m9:00AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m9:00AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m9:01AM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m9:01AM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m9:01AM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m9:01AM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m9:01AM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:37PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:37PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:37PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:37PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:37PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:38PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:38PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:38PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:38PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:38PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:39PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:39PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:39PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:39PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:39PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:41PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:41PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:41PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:41PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:41PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:42PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:42PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:42PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:42PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:42PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:42PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:42PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:42PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:42PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:42PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:43PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:43PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:43PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:43PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:43PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:44PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:44PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:44PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:44PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:44PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:45PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:45PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:45PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:45PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:45PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:46PM[0m DBG here [36mbyteline=[0m"╔═══╗" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:46PM[0m DBG here [36mbyteline=[0m"║ * ║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:46PM[0m DBG here [36mbyteline=[0m"     " [36mrun len=[0m5 [36mstr len=[0m5
+[90m8:46PM[0m DBG here [36mbyteline=[0m"║* @║" [36mrun len=[0m5 [36mstr len=[0m9
+[90m8:46PM[0m DBG here [36mbyteline=[0m"╚═══╝" [36mrun len=[0m5 [36mstr len=[0m15
+[90m8:50PM[0m DBG here [36mbyteline=[0m"╔═════════════╗" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║ *         * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:50PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╔═════════════╗" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║ *         * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╔═════════════╗" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║ *         * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╔═════════════╗" [36mrun len=[0m15 [36mstr len=[0m45
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║     *     * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║ *         * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║           * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║      $    * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"║   *       * ║" [36mrun len=[0m15 [36mstr len=[0m19
+[90m8:51PM[0m DBG here [36mbyteline=[0m"╚═════════════╝" [36mrun len=[0m15 [36mstr len=[0m45
